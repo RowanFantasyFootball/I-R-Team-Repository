@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=
+comment1.target=Location\ getLocation()
+comment2.params=location
+comment2.target=void\ setLocation(Location)
+comment2.text=\r\n\ Set\ the\ current\ location.\r\n\ @param\ location\ Where\ it\ is.\ Must\ not\ be\ null.\r\n\ @throws\ NullPointerException\ If\ location\ is\ null.\r\n
+comment3.params=
+comment3.target=Location\ getTargetLocation()
+comment3.text=\r\n\ Get\ the\ target\ location.\r\n\ @return\ Where\ this\ vehicle\ is\ currently\ headed,\ or\ null\r\n\ \ \ \ \ \ \ \ \ if\ it\ is\ idle.\r\n
+comment4.params=location
+comment4.target=void\ setTargetLocation(Location)
+comment4.text=\r\n\ Set\ the\ required\ target\ location.\r\n\ @param\ location\ Where\ to\ go.\ Must\ not\ be\ null.\r\n\ @throws\ NullPointerException\ If\ location\ is\ null.\r\n
+comment5.params=
+comment5.target=void\ clearTargetLocation()
+comment5.text=\r\n\ Clear\ the\ target\ location.\r\n
+numComments=6
