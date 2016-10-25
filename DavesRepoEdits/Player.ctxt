@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment0.text=\r\n\ Player\ constructor,\ no\ parameters\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act()\ will\ communicate\ using\r\n\ updateMessage(int\ messageCode,\ int\ tick,\ int\ yardage,\ int\ positionOfBall,\ Player\ player)\r\n\ that\ comes\ from\ the\ Stats\ team\r\n
+comment2.params=
+comment2.target=void\ act2()
+comment2.text=\r\n\ Act2\ will\ send\ messages\ to\ playerstats\ and\ controlls\ the\ ball\ after\ the\ Act1\r\n\ updateMessage(int\ messageCode,\ int\ tick,\ int\ yardage,\ int\ positionOfBall,\ Player\ player)\r\n
+numComments=3

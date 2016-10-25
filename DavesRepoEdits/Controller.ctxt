@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Controller()
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ step()
+comment3.params=millisec
+comment3.target=void\ wait(int)
+comment4.params=
+comment4.target=void\ teamSetUp()
+comment5.params=
+comment5.target=void\ endQuarter()
+comment5.text=\r\n\ Make\ sure\ that\ the\ "main\ loop"\ is\ stopped.\r\n\ Make\ sure\ clock\ is\ stopped\ (just\ in\ case)\r\n\ Display\ stats\ of\ quarter\ (score\ &\ team\ stats)\r\n\ If\ it\ is\ the\ 4th\ time\ ending\ a\ quarter,\ end\ Game\ (use\ if\ statement)\r\n\ ^^^end\ game\ as\ in\ show\ whole\ game\ stats\ and\ team\ who\ won\r\n\ Add\ current\ stats\ to\ final\ game\ stats\r\n\ \r\n
+comment6.params=
+comment6.target=void\ startNextQuarter()
+comment6.text=\r\n\ Wait\ a\ certain\ amount\ of\ ticks\ before\ starting\ next\ quarter\ (final)\r\n\ Set\ clock\ to\ default\ start\ time\r\n\ Activate\ run()\ method\ to\ run\ program\ all\ over\ again\r\n\ Reset\ current\ quarter\ stats\ to\ empty\r\n
+comment7.params=
+comment7.target=void\ incrementClockMAYBE()
+comment8.params=
+comment8.target=void\ updatePositionMAYBE()
+comment9.params=guess
+comment9.target=boolean\ coinFlip(java.lang.String)
+numComments=10

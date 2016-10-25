@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=interception\ fumble\ passing\ receiving\ rushing
+comment0.target=Statistics(int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getInterception()
+comment10.params=rushing
+comment10.target=void\ setRushing(int)
+comment2.params=interception
+comment2.target=void\ setInterception(int)
+comment3.params=
+comment3.target=int\ getFumble()
+comment4.params=fumble
+comment4.target=void\ setFumble(int)
+comment5.params=
+comment5.target=int\ getPassing()
+comment6.params=passing
+comment6.target=void\ setPassing(int)
+comment7.params=
+comment7.target=int\ getReceiving()
+comment8.params=receiving
+comment8.target=void\ setReceiving(int)
+comment9.params=
+comment9.target=int\ getRushing()
+numComments=11
